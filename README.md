@@ -2,7 +2,7 @@
 
 ## Giới thiệu
 
-Đây là bài tập lớn học phần:Nhập môn bảo mật thông tin.
+Đây là bài tập lớn học phần: Nhập môn bảo mật thông tin.
 
 Chương trình cho phép:
 
